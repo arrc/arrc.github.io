@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test on My New Hugo Site</title>
-    <link>http://replace-this-with-your-hugo-site.com/categories/test/</link>
-    <description>Recent content in Test on My New Hugo Site</description>
+    <title>Test on Hugo! yeah</title>
+    <link>http://arrc.github.io/categories/test/</link>
+    <description>Recent content in Test on Hugo! yeah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Feb 2016 10:50:24 +0530</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://arrc.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/first/</link>
+      <link>http://arrc.github.io/post/first/</link>
       <pubDate>Sun, 28 Feb 2016 10:50:24 +0530</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/first/</guid>
+      <guid>http://arrc.github.io/post/first/</guid>
       <description>
 
 &lt;h1 id=&#34;this-is-the-first-post:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;this is the first post&lt;/h1&gt;
