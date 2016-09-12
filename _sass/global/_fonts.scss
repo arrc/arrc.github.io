@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'aleo';
+    src: url('../../fonts/aleofont/ttf/aleo-regular-webfont.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'aleo-light';
+    src: url('../../fonts/aleofont/ttf/aleo-light-webfont.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'clearsans';
+    src: url('../../fonts/clearsans/ttf/ClearSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'clearsans-light';
+    src: url('../../fonts/clearsans/ttf/ClearSans-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'clearsans-thin';
+    src: url('../../fonts/clearsans/ttf/ClearSans-Thin.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'cutive';
+    src: url('../../fonts/cutive/Cutive-Regular.ttf') format('truetype');
+}
+
+
+// Fonts mixin
+@mixin aleo-regular-font {
+  font-family: 'aleo-regular';
+}
+
+@mixin aleo-light-font {
+  font-family: 'aleo-light';
+}
+
+@mixin clearsans-thin-font {
+  font-family: 'clearsans-thin';
+}
+
+@mixin aleo-light-font {
+  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+}
+
+@mixin heading-font {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+}

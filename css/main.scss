@@ -3,4 +3,20 @@
 ---
 @charset "utf-8";
 
-@import "header";
+// @import "header";
+
+// GLOBAL
+@import "global/fonts";
+@import "global/colors";
+@import "global/type";
+@import "global/form";
+@import "global/general";
+
+// HOME
+@import "home/navbar";
+@import "home/hero";
+@import "home/bio";
+@import "home/ican";
+@import "home/about";
+@import "home/portfolio";
+@import "home/contact";

@@ -1,0 +1,86 @@
+#portfolio .portfolio-item .portfolio-caption {
+    padding: 20px 5px;
+}
+
+.ar_portfolio_caption {
+    .ar_i_description {
+        font-family: 'aleo' !important;
+        font-size: 12px !important;
+        height: 30px;
+        
+        .ar_i_hashpix {
+            text-decoration: underline;
+        }
+    }
+}
+
+.ar_portfolio_meta {
+    margin: 10px 10px 0 10px;
+    padding: 10px 10px 0 10px;
+    height: 50px;
+    
+    .ar_i_tags {
+        text-align: left;
+        width: 70%;    
+    }
+    
+    .ar_i_tag {
+        display: inline-block;
+        font-family: 'clearsans';
+        padding: 2px 5px;
+        margin-top: 5px;
+        border-radius: 2px;
+        font-size: 12px;
+        background-color: aliceblue;
+        
+        &:not(:last-child):after {
+            content: ',';
+        }
+        
+        &:hover {
+            background-color: rgba(aqua, 0.3);
+            cursor: pointer;
+        }
+    }
+    
+    .ar_i_links {
+        font-size: 1.5em;
+        a {
+            padding: 5px;
+            color: goldenrod;
+        }
+        a:hover {
+            color: rgba(aqua, 0.6);
+        }
+    }
+}
+
+.modal-content {
+    .ar_modal_features {
+        text-align: left;
+        font-family: 'clearsans-light';
+    }
+    h5 {
+        text-align: left;
+    }
+    .ar_modal_techstack {
+        text-align: left;
+        font-family: 'clearsans-light';
+        font-size: 1em;
+    }
+}
+
+@media (min-width: 768px) {
+    .modal-content {
+//        text-align: left !important;
+        padding-top: 0 !important;
+        
+        .ar_modal_image_container {
+            margin-top: 30px;
+            .ar_i_wrapper {
+                height: 200px;
+            }
+        }
+    }
+}
+    

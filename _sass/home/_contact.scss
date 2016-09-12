@@ -1,0 +1,23 @@
+section.ar_contact {
+    height: 100vh;
+    padding: 90px 0 0 0;
+    background-image: url('../img/lake.jpg') !important;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+    
+    .section-heading {
+        color: goldenrod !important;
+    }
+    
+    textarea {
+        height: 150px !important;
+    }
+    
+    footer {
+        color: white;
+        margin-top: 6.3%;
+        background-color: rgba(black, 0.7);
+    }
+}

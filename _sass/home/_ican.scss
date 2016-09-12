@@ -1,0 +1,18 @@
+#ar_ican_section {
+    
+}
+
+.ar_ican_unit {
+    min-height: 350px;
+    &:hover {
+        background-color: azure;
+    }
+    
+    p {
+        text-align: left;
+        &:before {
+            content: '\2022';
+            margin-right: 5px;
+        }
+    }
+}
