@@ -56,12 +56,21 @@
 }
 
 .modal-content {
+    background-color: rgba(dimgray, 0.7);
+
+    .ar_model_container {
+          background-color: ghostwhite;
+      }
+
     .ar_modal_features {
         text-align: left;
         font-family: 'clearsans-light';
     }
     h5 {
-        text-align: left;
+      padding: 10px;
+      border: thin solid lightgray;
+      border-radius: 2px;
+      text-align: left;
     }
     .ar_modal_techstack {
         text-align: left;
