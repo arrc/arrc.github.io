@@ -1,6 +1,6 @@
 <div class="container">
   <ul>
-    {% for project in site.data.portfolio.portfolios %}
+    {% for project in site.data.portfolio %}
       <li>{{ project.title }}</li>
       <p>Website:<em>{% if project.url %} {{ project.url }} {% endif %}</em></p>
       <ol>

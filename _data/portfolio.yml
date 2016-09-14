@@ -1,4 +1,3 @@
-portfolios:
 #
 # _________________________ BLOI ______________________________________
 #
@@ -10,6 +9,7 @@ portfolios:
   github: http://github.com/arrc/bloi.co
   youtube: https://www.youtube.com/embed/4KSlB-eA3u4
   tags: [rails, js, postgres]
+  thumbnail:
   tech:
     - Ruby on Rails 5
     - JavaScript
@@ -48,6 +48,7 @@ portfolios:
   github: http://github.com/arrc/avxplr
   youtube: https://www.youtube.com/embed/4KSlB-eA3u4
   tags: [rails, js, postgres]
+  thumbnail:
   tech:
     - Ruby on Rails 5
     - JavaScript
@@ -84,6 +85,7 @@ portfolios:
   github: http://github.com/arrc/obbp
   youtube: https://www.youtube.com/embed/4KSlB-eA3u4
   tags: [spa, express.js, angular.js, mongodb, RESTful API, token auth]
+  thumbnail:
   tech:
     - Express.js
     - Nodejs
@@ -121,6 +123,7 @@ portfolios:
   github: http://github.com/arrc/bloi-remote
   youtube: https://www.youtube.com/embed/4KSlB-eA3u4
   tags: [js, google chrome api]
+  thumbnail:
   tech:
     - JavaScript
     - Google Chrome Extension API
@@ -145,6 +148,7 @@ portfolios:
   github: http://github.com/arrc/hashpix
   youtube: https://www.youtube.com/embed/4KSlB-eA3u4
   tags: [express.js, lodash, angular.js, 3rd party API]
+  thumbnail:
   tech:
     - Angular.js
     - Express.js
@@ -176,6 +180,7 @@ portfolios:
   github: http://github.com/arrc/obbp-ios
   youtube: https://www.youtube.com/embed/4KSlB-eA3u4
   tags: [swift 2.2, iOS 9.3, API, auto layout]
+  thumbnail:
   tech:
     - Xcode 8 beta 6
     - Swift 2.2
