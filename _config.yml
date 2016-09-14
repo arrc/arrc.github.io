@@ -8,12 +8,9 @@ description: "Naveen Kumar (arrC or arrcoder) is freelance web and mobile develo
 project_status: "21 sep, 2016"
 
 social:
-  - title: twitter
-    url: http://twitter.com/arrcoder
-  - title: github
-    url: http://github.com/arrc
-  - title: linkedin
-    url: https://www.linkedin.com/in/arrcoder
+  twitter: http://twitter.com/arrcoder
+  github: http://github.com/arrc
+  linkedin: https://www.linkedin.com/in/arrcoder
 
 # Build settings
 markdown: kramdown
