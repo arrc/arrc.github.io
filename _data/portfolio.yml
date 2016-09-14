@@ -1,0 +1,198 @@
+portfolios:
+#
+# _________________________ BLOI ______________________________________
+#
+- title: Bloi.co
+  modal_id: bloiModal
+  short_description: A minimalistic bookmarking application.
+  description:
+  url: http://bloi.co
+  github: http://github.com/arrc/bloi.co
+  youtube: https://www.youtube.com/embed/4KSlB-eA3u4
+  tags: [rails, js, postgres]
+  tech:
+    - Ruby on Rails 5
+    - JavaScript
+    - jQuery
+    - Postgres
+    - Foundation 6
+    - Capistrano
+    - AWS S3
+    - AWS EC2
+    - Ubuntu 16.04
+  features:
+    - "Users can create account."
+    - "Save bookmarks in cloud."
+    - "Save bookmarks using either browser extension (Bloi remote) or web form."
+    - "Create topics to organize bookmarks."
+    - "Make any topic public/private."
+    - "Public topics and its bookmarks are visibile to the world on users profile page."
+    - "Use flags to indicate the importance of the bookmarks."
+    - "Search own bookmarks/topics."
+  screenshots:
+    - 'img/screenshots/bloi/bookmarks.png'
+    - 'img/screenshots/bloi/extension.png'
+    - 'img/screenshots/bloi/front_page.png'
+    - 'img/screenshots/bloi/full_page.png'
+    - 'img/screenshots/bloi/new_topics.png'
+    - 'img/screenshots/bloi/public-profile.png'
+    - 'img/screenshots/bloi/topics.png'
+#
+# _________________________ AVXPLR ______________________________________
+#
+- title: Avxplr.com
+  modal_id: avxplrModal
+  short_description: A photo sharing website for aviation for enthusiasts.
+  description:
+  url: http://avxplr.com
+  github: http://github.com/arrc/avxplr
+  youtube: https://www.youtube.com/embed/4KSlB-eA3u4
+  tags: [rails, js, postgres]
+  tech:
+    - Ruby on Rails 5
+    - JavaScript
+    - jQuery
+    - Postgres
+    - Foundation 6
+    - Capistrano
+    - AWS S3
+    - AWS EC2
+    - Ubuntu 16.04
+  features:
+    - "Users can share aviation related photos &amp; youtube videos known as <em>Shots</em>."
+    - "It has a robust admin interface for managing users, spam, comments and many more etc"
+    - "Users can favorite any aircraft or shot"
+    - "Users public profile includes posted shots, his/her favorite aircrafts and shots."
+    - "Users can flag/report inapropriate shots or comments."
+    - "Admin can create new aircrafts profile or edit existing one using a built-in form."
+  screenshots:
+    - 'img/screenshots/bloi/bookmarks.png'
+    - 'img/screenshots/bloi/extension.png'
+    - 'img/screenshots/bloi/front_page.png'
+    - 'img/screenshots/bloi/full_page.png'
+    - 'img/screenshots/bloi/new_topics.png'
+    - 'img/screenshots/bloi/public-profile.png'
+    - 'img/screenshots/bloi/topics.png'
+#
+# _________________________ Obbp.arrc.in ______________________________________
+#
+- title: Obbp.arrc.in
+  modal_id: obbpModal
+  short_description: An online blood bank project.
+  description:
+  url: http://obbp.arrc.in
+  github: http://github.com/arrc/obbp
+  youtube: https://www.youtube.com/embed/4KSlB-eA3u4
+  tags: [spa, express.js, angular.js, mongodb, RESTful API, token auth]
+  tech:
+    - Express.js
+    - Nodejs
+    - Angular.js
+    - Foundation 5
+    - Scss
+    - Lodash
+    - PM2
+    - Nginx
+    - Ubuntu 16.04
+  features:
+    - "It has admin interface for managing users, blood requests, blood donation camps."
+    - "It features token based authentication (JWT) for seamless integration with mobile clients."
+    - "Tokens are auto refreshed at regular intervals."
+    - "Users can serach for matching blood donors in any given states."
+    - "Users has the ability to request for blood via blood request form or by sending private message to other users."
+    - "Users can receive/send private messages to each other."
+    - "List of upcoming blood donation camps all across India."
+  screenshots:
+    - 'img/screenshots/bloi/bookmarks.png'
+    - 'img/screenshots/bloi/extension.png'
+    - 'img/screenshots/bloi/front_page.png'
+    - 'img/screenshots/bloi/full_page.png'
+    - 'img/screenshots/bloi/new_topics.png'
+    - 'img/screenshots/bloi/public-profile.png'
+    - 'img/screenshots/bloi/topics.png'
+#
+# _________________________ Bloi remote ______________________________________
+#
+- title: Bloi remote
+  modal_id: bloiRemoteModal
+  short_description: A Chrome browser extension for saving bookmarks on bloi.co.
+  description:
+  url: http://obbp.arrc.in
+  github: http://github.com/arrc/bloi-remote
+  youtube: https://www.youtube.com/embed/4KSlB-eA3u4
+  tags: [js, google chrome api]
+  tech:
+    - JavaScript
+    - Google Chrome Extension API
+  features:
+    - "Open bookmark creation form on bloi.co in one click."
+  screenshots:
+    - 'img/screenshots/bloi/bookmarks.png'
+    - 'img/screenshots/bloi/extension.png'
+    - 'img/screenshots/bloi/front_page.png'
+    - 'img/screenshots/bloi/full_page.png'
+    - 'img/screenshots/bloi/new_topics.png'
+    - 'img/screenshots/bloi/public-profile.png'
+    - 'img/screenshots/bloi/topics.png'
+#
+# _________________________ Hashpix.arrc.in ______________________________________
+#
+- title: Hashpix.arrc.in
+  modal_id: hashpixModal
+  short_description: 'Search images on <span class="ar_i_hashpix">Flickr</span>, <span class="ar_i_hashpix">Instagram</span> &amp; <span class="ar_i_hashpix">Imagur</span> in one go.'
+  description:
+  url: http://hashpix.arrc.in
+  github: http://github.com/arrc/hashpix
+  youtube: https://www.youtube.com/embed/4KSlB-eA3u4
+  tags: [express.js, lodash, angular.js, 3rd party API]
+  tech:
+    - Angular.js
+    - Express.js
+    - Lodash
+    - Scss
+    - Foundation 6
+    - Ubuntu 16.04
+  features:
+    - "Search images on multiple image hosting websites."
+    - "Clean grid UI."
+    - "Go directly to image page."
+    - "More image hosting services to be added in future."
+  screenshots:
+    - 'img/screenshots/bloi/bookmarks.png'
+    - 'img/screenshots/bloi/extension.png'
+    - 'img/screenshots/bloi/front_page.png'
+    - 'img/screenshots/bloi/full_page.png'
+    - 'img/screenshots/bloi/new_topics.png'
+    - 'img/screenshots/bloi/public-profile.png'
+    - 'img/screenshots/bloi/topics.png'
+#
+# _________________________ Obbp iPhone app ______________________________________
+#
+- title: Obbp iPhone app
+  modal_id: obbpIphoneModal
+  short_description: A native iPhone application for obbp project.
+  description:
+  url:
+  github: http://github.com/arrc/obbp-ios
+  youtube: https://www.youtube.com/embed/4KSlB-eA3u4
+  tags: [swift 2.2, iOS 9.3, API, auto layout]
+  tech:
+    - Xcode 8 beta 6
+    - Swift 2.2
+    - iOS 9.3
+    - Auto layout
+  features:
+    - "Register from with in the application."
+    - "Find blood donors."
+    - "View private messages."
+    - "Send blood request message to users."
+    - "Request blood."
+    - "Blood doantion camps."
+  screenshots:
+    - 'img/screenshots/bloi/bookmarks.png'
+    - 'img/screenshots/bloi/extension.png'
+    - 'img/screenshots/bloi/front_page.png'
+    - 'img/screenshots/bloi/full_page.png'
+    - 'img/screenshots/bloi/new_topics.png'
+    - 'img/screenshots/bloi/public-profile.png'
+    - 'img/screenshots/bloi/topics.png'
