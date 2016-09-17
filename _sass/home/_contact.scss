@@ -22,5 +22,11 @@ section.ar_contact {
         color: white;
         height: 80px;
         background-color: rgba(black, 0.7);
+
+        a[href^="/blogs"] {
+           color: ghostwhite;
+           pointer-events: none;
+           cursor: default;
+        }
     }
 }
