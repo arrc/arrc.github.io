@@ -64,13 +64,26 @@
     - "Users can flag/report inapropriate shots or comments."
     - "Admin can create new aircrafts profile or edit existing one using a built-in form."
   screenshots:
-    - 'img/screenshots/bloi/bookmarks.png'
-    - 'img/screenshots/bloi/extension.png'
-    - 'img/screenshots/bloi/front_page.png'
-    - 'img/screenshots/bloi/full_page.png'
-    - 'img/screenshots/bloi/new_topics.png'
-    - 'img/screenshots/bloi/public-profile.png'
-    - 'img/screenshots/bloi/topics.png'
+    - http://res.cloudinary.com/arrc/image/upload/v1474208223/screenshots/avxplr/admin_aricraft_edit.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208181/screenshots/avxplr/admin_aricrafts.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208183/screenshots/avxplr/admin_comments.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208192/screenshots/avxplr/admin_dashboard.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208226/screenshots/avxplr/admin_editor.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208197/screenshots/avxplr/admin_engines.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208215/screenshots/avxplr/admin_flags.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208245/screenshots/avxplr/admin_quotes.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208197/screenshots/avxplr/admin_shots.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208208/screenshots/avxplr/admin_sub_attributes.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208204/screenshots/avxplr/admin_user_edit.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208210/screenshots/avxplr/admin_users.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208248/screenshots/avxplr/aircraft_show.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208293/screenshots/avxplr/aircrafts.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208229/screenshots/avxplr/create_new_shot.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208295/screenshots/avxplr/homepage.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208269/screenshots/avxplr/profile_edit.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208261/screenshots/avxplr/profile_favorites.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208250/screenshots/avxplr/profile_shots.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208271/screenshots/avxplr/single_shot_page.png
 #
 # _________________________ Obbp.arrc.in ______________________________________
 #
