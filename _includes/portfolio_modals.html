@@ -17,12 +17,11 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <p class="item-intro text-muted">{{ project.title }}</p>
-
-                            <ul class="nav nav-tabs" id="arrcModalTabContent">
+                            <hr class="star-primary">
+                            <ul class="nav nav-tabs arModalTab">
                               <li class="active"><a href="#{{ project.modal_id }}TabDetails" data-toggle="tab">Details</a></li>
                               <li><a href="#{{ project.modal_id }}TabScreenshots" data-toggle="tab">Screenshots</a></li>
                             </ul>
-                            <hr class="star-primary">
 
                             <div class="tab-content">
                                 <div class="tab-pane active" id="{{ project.modal_id }}TabDetails">
