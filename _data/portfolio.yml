@@ -30,13 +30,10 @@
     - "Use flags to indicate the importance of the bookmarks."
     - "Search own bookmarks/topics."
   screenshots:
-    - 'img/screenshots/bloi/bookmarks.png'
-    - 'img/screenshots/bloi/extension.png'
-    - 'img/screenshots/bloi/front_page.png'
-    - 'img/screenshots/bloi/full_page.png'
-    - 'img/screenshots/bloi/new_topics.png'
-    - 'img/screenshots/bloi/public-profile.png'
-    - 'img/screenshots/bloi/topics.png'
+    - http://res.cloudinary.com/arrc/image/upload/v1474208007/screenshots/bloi/bookmarks.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208008/screenshots/bloi/chrome-extension-form.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208012/screenshots/bloi/johndoe_public_profile.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208010/screenshots/bloi/Topics.png
 #
 # _________________________ AVXPLR ______________________________________
 #
