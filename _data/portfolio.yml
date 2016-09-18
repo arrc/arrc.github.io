@@ -176,13 +176,9 @@
     - "Go directly to image page."
     - "More image hosting services to be added in future."
   screenshots:
-    - 'img/screenshots/bloi/bookmarks.png'
-    - 'img/screenshots/bloi/extension.png'
-    - 'img/screenshots/bloi/front_page.png'
-    - 'img/screenshots/bloi/full_page.png'
-    - 'img/screenshots/bloi/new_topics.png'
-    - 'img/screenshots/bloi/public-profile.png'
-    - 'img/screenshots/bloi/topics.png'
+    - http://res.cloudinary.com/arrc/image/upload/v1474208395/screenshots/hashpix/home.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208428/screenshots/hashpix/seach.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208401/screenshots/hashpix/search_in_progress.png
 #
 # _________________________ Obbp iPhone app ______________________________________
 #
@@ -208,10 +204,15 @@
     - "Request blood."
     - "Blood doantion camps."
   screenshots:
-    - 'img/screenshots/bloi/bookmarks.png'
-    - 'img/screenshots/bloi/extension.png'
-    - 'img/screenshots/bloi/front_page.png'
-    - 'img/screenshots/bloi/full_page.png'
-    - 'img/screenshots/bloi/new_topics.png'
-    - 'img/screenshots/bloi/public-profile.png'
-    - 'img/screenshots/bloi/topics.png'
+    - http://res.cloudinary.com/arrc/image/upload/v1474208472/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.27.05_AM.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208473/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.01_AM.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208468/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.09_AM.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208471/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.12_AM.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208469/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.23_AM.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208469/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.28_AM.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208472/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.31_AM.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208474/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.51_AM.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208474/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.56_AM.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208471/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.29.17_AM.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208473/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.32.08_AM.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208475/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.32.10_AM.png
