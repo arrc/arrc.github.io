@@ -115,13 +115,23 @@
     - "Users can receive/send private messages to each other."
     - "List of upcoming blood donation camps all across India."
   screenshots:
-    - 'img/screenshots/bloi/bookmarks.png'
-    - 'img/screenshots/bloi/extension.png'
-    - 'img/screenshots/bloi/front_page.png'
-    - 'img/screenshots/bloi/full_page.png'
-    - 'img/screenshots/bloi/new_topics.png'
-    - 'img/screenshots/bloi/public-profile.png'
-    - 'img/screenshots/bloi/topics.png'
+    - http://res.cloudinary.com/arrc/image/upload/v1474208036/screenshots/obbp/admin_blood_request_edit.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208040/screenshots/obbp/admin_blood_request_message_back.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208042/screenshots/obbp/admin_blood_requests.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208040/screenshots/obbp/admin_camp_edit.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208040/screenshots/obbp/admin_camps_list.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208046/screenshots/obbp/admin_camps_view.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208061/screenshots/obbp/admin_user_edit.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208061/screenshots/obbp/admin_user_sending_message.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208055/screenshots/obbp/admin_users_list.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208046/screenshots/obbp/blood_request_page.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208051/screenshots/obbp/camps.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208054/screenshots/obbp/empty_serach_result.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208066/screenshots/obbp/home.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208063/screenshots/obbp/message_received_by_neha.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208070/screenshots/obbp/search_results.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208069/screenshots/obbp/serach_send_message.png
+    - http://res.cloudinary.com/arrc/image/upload/v1474208069/screenshots/obbp/user_profile.png
 #
 # _________________________ Bloi remote ______________________________________
 #
@@ -140,13 +150,7 @@
   features:
     - "Open bookmark creation form on bloi.co in one click."
   screenshots:
-    - 'img/screenshots/bloi/bookmarks.png'
-    - 'img/screenshots/bloi/extension.png'
-    - 'img/screenshots/bloi/front_page.png'
-    - 'img/screenshots/bloi/full_page.png'
-    - 'img/screenshots/bloi/new_topics.png'
-    - 'img/screenshots/bloi/public-profile.png'
-    - 'img/screenshots/bloi/topics.png'
+    - http://res.cloudinary.com/arrc/image/upload/v1474209572/screenshots/bloi-chrome/chrome-extension-demo.gif
 #
 # _________________________ Hashpix.arrc.in ______________________________________
 #
