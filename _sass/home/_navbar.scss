@@ -1,3 +1,60 @@
+// @media(min-width:768px) {
+//     .navbar-default.navbar-shrink {
+//         background-color: rgba(black, 0.7);
+//
+//     }
+// }
+
+.navbar-default {
+    .navbar-brand {
+        color: $theme-primary;
+        &:hover,
+        &:focus,
+        &:active,
+        &.active {
+            color: darken($theme-primary, 10%);
+        }
+    }
+
+    .navbar-toggle {
+        background-color: $theme-primary;
+        border-color: $theme-primary;
+        color: white;
+        font-size: 12px;
+        &:hover,
+        &:focus {
+            background-color: $theme-primary;
+        }
+    }
+
+    .nav {
+        li {
+            a {
+                font-weight: 400;
+                letter-spacing: 1px;
+                color: white;
+                &:hover,
+                &:focus {
+                    color: $theme-primary;
+                    outline: none;
+                }
+            }
+        }
+    }
+
+    .navbar-nav>.active>a {
+        border-radius: 0;
+        color: white;
+        background-color: $theme-primary;
+    }
+
+    .navbar-nav>.active>a:hover,
+    .navbar-nav>.active>a:focus {
+        color: white;
+        background-color: darken($theme-primary, 10%);
+    }
+}
+
 @media(min-width:768px) {
     .navbar-default.navbar-shrink {
         background-color: rgba(black, 0.7);
