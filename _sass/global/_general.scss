@@ -22,3 +22,61 @@ section {
 //        margin: 90px 0;
     }
 }
+
+section {
+    padding: 40px;
+//    margin: 40px 0;
+    h2.section-heading {
+        font-family: 'Raleway';
+        font-size: 40px;
+        margin-top: 0;
+        margin-bottom: 15px;
+        color: $theme-primary;
+    }
+    h3.section-subheading {
+        font-size: 16px;
+        font-family: 'Slabo 13px' !important;
+        text-transform: none;
+        font-style: italic;
+        font-weight: 400;
+        margin-bottom: 75px;
+    }
+}
+
+.text-primary {
+    color: $theme-secondary;
+}
+
+div, p, span {
+    font-family: 'Raleway';
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Slabo 13px';
+    color: $theme-primary;
+}
+
+.btn-xl {
+    @include button-variant(white, $theme-primary, $theme-primary);
+    font-weight: 700;
+    border-radius: 3px;
+    font-size: 18px;
+    padding: 20px 40px;
+}
+
+::-moz-selection {
+    text-shadow: none;
+    background: lighten($theme-primary, 30);
+}
+
+::selection {
+    text-shadow: none;
+    background: lighten($theme-primary, 30);
+}
+
+@media(min-width:768px) {
+    section {
+        padding: 90px;
+//        margin: 90px 0;
+    }
+}
