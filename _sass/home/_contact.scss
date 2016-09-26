@@ -11,7 +11,7 @@ section.ar_contact {
     justify-content: space-between;
 
     .section-heading {
-        color: goldenrod !important;
+        color: $theme-primary !important;
     }
 
     textarea {
@@ -27,6 +27,16 @@ section.ar_contact {
            color: ghostwhite;
            pointer-events: none;
            cursor: default;
+        }
+
+        .social-buttons {
+            li a {
+                &:hover,
+                &:focus,
+                &:active {
+                    background-color: $theme-primary;
+                }
+            }
         }
     }
 }

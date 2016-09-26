@@ -43,18 +43,17 @@
             width: 70%;
 
              .ar_i_hi {
-//                 font-family: 'aleo-light';
+                font-family: 'Raleway';
                  font-family: 'clearsans-thin';
                  font-style: normal;
              }
              .ar_i_typewritter {
                  display: inline-block;
-                 font-family: 'aleo-light';
-//                 font-family: monospace;
+                 font-family: 'Slabo 13px';
                  text-transform: none;
                  font-weight: normal;
-                 font-size: 2em;
-                 line-height: 2em;
+                 font-size: 1.8em;
+                 line-height: 1.8em;
              }
 
              .typed-cursor {
@@ -69,9 +68,10 @@
          }
 
          .ar_i_tag {
-             font-family: 'clearsans-thin';
-             font-size: 1em;
-             line-height: 1em;
+             font-family: 'Raleway';
+             font-weight: 300;
+             font-size: 0.9em;
+             line-height: 0.9em;
              letter-spacing: 1px;
              padding: 10px;
              text-decoration: none;
@@ -110,7 +110,7 @@
              .ar_i_links {
                  margin: 0 auto;
                  a {
-                     color: goldenrod;
+                     color: $theme-primary;
                  }
              }
 
