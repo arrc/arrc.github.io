@@ -80,6 +80,11 @@
 
     .arModalTab {
       margin-bottom: 50px;
+
+      li {
+        color: $theme-primary !important;
+        font-weight: bold;
+      }
     }
 }
 
