@@ -30,10 +30,10 @@
     - "Use flags to indicate the importance of the bookmarks."
     - "Search own bookmarks/topics."
   screenshots:
-    - img/screenshots/bloi/bookmarks.png
-    - img/screenshots/bloi/chrome-extension-form.png
-    - img/screenshots/bloi/johndoe_public_profile.png
-    - img/screenshots/bloi/Topics.png
+    - img/screenshots/bloi/bookmarks.jpg
+    - img/screenshots/bloi/chrome-extension-form.jpg
+    - img/screenshots/bloi/johndoe_public_profile.jpg
+    - img/screenshots/bloi/Topics.jpg
     # - http://res.cloudinary.com/arrc/image/upload/v1474208007/screenshots/bloi/bookmarks.png
     # - http://res.cloudinary.com/arrc/image/upload/v1474208008/screenshots/bloi/chrome-extension-form.png
     # - http://res.cloudinary.com/arrc/image/upload/v1474208012/screenshots/bloi/johndoe_public_profile.png
@@ -68,26 +68,26 @@
     - "Users can flag/report inapropriate shots or comments."
     - "Admin can create new aircrafts profile or edit existing one using a built-in form."
   screenshots:
-    - img/screenshots/avxplr/admin_aricraft_edit.png
-    - img/screenshots/avxplr/admin_aricrafts.png
-    - img/screenshots/avxplr/admin_comments.png
-    - img/screenshots/avxplr/admin_dashboard.png
-    - img/screenshots/avxplr/admin_editor.png
-    - img/screenshots/avxplr/admin_engines.png
-    - img/screenshots/avxplr/admin_flags.png
-    - img/screenshots/avxplr/admin_quotes.png
-    - img/screenshots/avxplr/admin_shots.png
-    - img/screenshots/avxplr/admin_sub_attributes.png
-    - img/screenshots/avxplr/admin_user_edit.png
-    - img/screenshots/avxplr/admin_users.png
-    - img/screenshots/avxplr/aircraft_show.png
-    - img/screenshots/avxplr/aircrafts.png
-    - img/screenshots/avxplr/create_new_shot.png
-    - img/screenshots/avxplr/homepage.png
-    - img/screenshots/avxplr/profile_edit.png
-    - img/screenshots/avxplr/profile_favorites.png
-    - img/screenshots/avxplr/profile_shots.png
-    - img/screenshots/avxplr/single_shot_page.png
+    - img/screenshots/avxplr/admin_aricraft_edit.jpg
+    - img/screenshots/avxplr/admin_aricrafts.jpg
+    - img/screenshots/avxplr/admin_comments.jpg
+    - img/screenshots/avxplr/admin_dashboard.jpg
+    - img/screenshots/avxplr/admin_editor.jpg
+    - img/screenshots/avxplr/admin_engines.jpg
+    - img/screenshots/avxplr/admin_flags.jpg
+    - img/screenshots/avxplr/admin_quotes.jpg
+    - img/screenshots/avxplr/admin_shots.jpg
+    - img/screenshots/avxplr/admin_sub_attributes.jpg
+    - img/screenshots/avxplr/admin_user_edit.jpg
+    - img/screenshots/avxplr/admin_users.jpg
+    - img/screenshots/avxplr/aircraft_show.jpg
+    - img/screenshots/avxplr/aircrafts.jpg
+    - img/screenshots/avxplr/create_new_shot.jpg
+    - img/screenshots/avxplr/homepage.jpg
+    - img/screenshots/avxplr/profile_edit.jpg
+    - img/screenshots/avxplr/profile_favorites.jpg
+    - img/screenshots/avxplr/profile_shots.jpg
+    - img/screenshots/avxplr/single_shot_page.jpg
     # - http://res.cloudinary.com/arrc/image/upload/v1474208223/screenshots/avxplr/admin_aricraft_edit.png
     # - http://res.cloudinary.com/arrc/image/upload/v1474208181/screenshots/avxplr/admin_aricrafts.png
     # - http://res.cloudinary.com/arrc/image/upload/v1474208183/screenshots/avxplr/admin_comments.png
@@ -139,23 +139,23 @@
     - "Users can receive/send private messages to each other."
     - "List of upcoming blood donation camps all across India."
   screenshots:
-    - img/screenshots/obbp/admin_blood_request_edit.png
-    - img/screenshots/obbp/admin_blood_request_message_back.png
-    - img/screenshots/obbp/admin_blood_requests.png
-    - img/screenshots/obbp/admin_camp_edit.png
-    - img/screenshots/obbp/admin_camps_list.png
-    - img/screenshots/obbp/admin_camps_view.png
-    - img/screenshots/obbp/admin_user_edit.png
-    - img/screenshots/obbp/admin_user_sending_message.png
-    - img/screenshots/obbp/admin_users_list.png
-    - img/screenshots/obbp/blood_request_page.png
-    - img/screenshots/obbp/camps.png
-    - img/screenshots/obbp/empty_serach_result.png
-    - img/screenshots/obbp/home.png
-    - img/screenshots/obbp/message_received_by_neha.png
-    - img/screenshots/obbp/search_results.png
-    - img/screenshots/obbp/serach_send_message.png
-    - img/screenshots/obbp/user_profile.png
+    - img/screenshots/obbp/admin_blood_request_edit.jpg
+    - img/screenshots/obbp/admin_blood_request_message_back.jpg
+    - img/screenshots/obbp/admin_blood_requests.jpg
+    - img/screenshots/obbp/admin_camp_edit.jpg
+    - img/screenshots/obbp/admin_camps_list.jpg
+    - img/screenshots/obbp/admin_camps_view.jpg
+    - img/screenshots/obbp/admin_user_edit.jpg
+    - img/screenshots/obbp/admin_user_sending_message.jpg
+    - img/screenshots/obbp/admin_users_list.jpg
+    - img/screenshots/obbp/blood_request_page.jpg
+    - img/screenshots/obbp/camps.jpg
+    - img/screenshots/obbp/empty_serach_result.jpg
+    - img/screenshots/obbp/home.jpg
+    - img/screenshots/obbp/message_received_by_neha.jpg
+    - img/screenshots/obbp/search_results.jpg
+    - img/screenshots/obbp/serach_send_message.jpg
+    - img/screenshots/obbp/user_profile.jpg
     # - http://res.cloudinary.com/arrc/image/upload/v1474208036/screenshots/obbp/admin_blood_request_edit.png
     # - http://res.cloudinary.com/arrc/image/upload/v1474208040/screenshots/obbp/admin_blood_request_message_back.png
     # - http://res.cloudinary.com/arrc/image/upload/v1474208042/screenshots/obbp/admin_blood_requests.png
@@ -217,9 +217,9 @@
     - "Go directly to image page."
     - "More image hosting services to be added in future."
   screenshots:
-    - img/screenshots/hashpix/home.png
-    - img/screenshots/hashpix/seach.png
-    - img/screenshots/hashpix/search_in_progress.png
+    - img/screenshots/hashpix/home.jpg
+    - img/screenshots/hashpix/seach.jpg
+    - img/screenshots/hashpix/search_in_progress.jpg
     # - http://res.cloudinary.com/arrc/image/upload/v1474208395/screenshots/hashpix/home.png
     # - http://res.cloudinary.com/arrc/image/upload/v1474208428/screenshots/hashpix/seach.png
     # - http://res.cloudinary.com/arrc/image/upload/v1474208401/screenshots/hashpix/search_in_progress.png
@@ -248,18 +248,18 @@
     - "Request blood."
     - "Blood doantion camps."
   screenshots:
-    - img/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.27.05_AM.png
-    - img/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.01_AM.png
-    - img/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.09_AM.png
-    - img/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.12_AM.png
-    - img/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.23_AM.png
-    - img/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.28_AM.png
-    - img/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.31_AM.png
-    - img/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.51_AM.png
-    - img/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.56_AM.png
-    - img/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.29.17_AM.png
-    - img/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.32.08_AM.png
-    - img/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.32.10_AM.png
+    - img/screenshots/obbp-ios/obbp-ios-1.jpg
+    - img/screenshots/obbp-ios/obbp-ios-2.jpg
+    - img/screenshots/obbp-ios/obbp-ios-3.jpg
+    - img/screenshots/obbp-ios/obbp-ios-4.jpg
+    - img/screenshots/obbp-ios/obbp-ios-5.jpg
+    - img/screenshots/obbp-ios/obbp-ios-6.jpg
+    - img/screenshots/obbp-ios/obbp-ios-7.jpg
+    - img/screenshots/obbp-ios/obbp-ios-8.jpg
+    - img/screenshots/obbp-ios/obbp-ios-9.jpg
+    - img/screenshots/obbp-ios/obbp-ios-10.jpg
+    - img/screenshots/obbp-ios/obbp-ios-11.jpg
+    - img/screenshots/obbp-ios/obbp-ios-12.jpg
     # - http://res.cloudinary.com/arrc/image/upload/v1474208472/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.27.05_AM.png
     # - http://res.cloudinary.com/arrc/image/upload/v1474208473/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.01_AM.png
     # - http://res.cloudinary.com/arrc/image/upload/v1474208468/screenshots/obbp-ios/Simulator_Screen_Shot_10-Sep-2016_1.28.09_AM.png
