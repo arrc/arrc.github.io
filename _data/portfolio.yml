@@ -30,6 +30,7 @@
     - "Use flags to indicate the importance of the bookmarks."
     - "Search own bookmarks/topics."
   screenshots:
+    - img/screenshots/bloi/bookmarks.png
     - http://res.cloudinary.com/arrc/image/upload/v1474208007/screenshots/bloi/bookmarks.png
     - http://res.cloudinary.com/arrc/image/upload/v1474208008/screenshots/bloi/chrome-extension-form.png
     - http://res.cloudinary.com/arrc/image/upload/v1474208012/screenshots/bloi/johndoe_public_profile.png
