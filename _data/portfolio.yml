@@ -9,7 +9,7 @@
   github: http://github.com/arrc/bloi.co
   youtube: https://www.youtube.com/embed/4KSlB-eA3u4
   tags: [rails, js, postgres]
-  thumbnail:
+  thumbnail: img/thumb/bloi-thumb.jpg
   tech:
     - Ruby on Rails 5
     - JavaScript
@@ -49,7 +49,7 @@
   github: http://github.com/arrc/avxplr
   youtube: https://www.youtube.com/embed/4KSlB-eA3u4
   tags: [rails, js, postgres]
-  thumbnail:
+  thumbnail: img/thumb/avxplr-thumb.jpg
   tech:
     - Ruby on Rails 5
     - JavaScript
@@ -119,7 +119,7 @@
   github: http://github.com/arrc/obbp
   youtube: https://www.youtube.com/embed/4KSlB-eA3u4
   tags: [spa, express.js, angular.js, mongodb, RESTful API, token auth]
-  thumbnail:
+  thumbnail: img/thumb/obbp-thumb.jpg
   tech:
     - Express.js
     - Nodejs
@@ -184,7 +184,7 @@
   github: http://github.com/arrc/bloi-remote
   youtube: https://www.youtube.com/embed/4KSlB-eA3u4
   tags: [js, google chrome api]
-  thumbnail:
+  thumbnail: img/thumb/
   tech:
     - JavaScript
     - Google Chrome Extension API
@@ -203,7 +203,7 @@
   github: http://github.com/arrc/hashpix
   youtube: https://www.youtube.com/embed/4KSlB-eA3u4
   tags: [express.js, lodash, angular.js, 3rd party API]
-  thumbnail:
+  thumbnail: img/thumb/hashpix-thumb.jpg
   tech:
     - Angular.js
     - Express.js
@@ -234,7 +234,7 @@
   github: http://github.com/arrc/obbp-ios
   youtube: https://www.youtube.com/embed/4KSlB-eA3u4
   tags: [swift 2.2, iOS 9.3, API, auto layout]
-  thumbnail:
+  thumbnail: img/thumb/obbp-ios-thumb.jpg
   tech:
     - Xcode 8 beta 6
     - Swift 2.2
