@@ -7,7 +7,7 @@
   description: A minimalistic bookmarking application.
   url: http://bloi.co
   github: http://github.com/arrc/bloi.co
-  youtube: https://www.youtube.com/watch?v=PDBa4tQaFsc
+  youtube: https://www.youtube.com/embed/PDBa4tQaFsc
   tags: [rails, js, postgres]
   thumbnail: img/thumbs/bloi-thumb.jpg
   animation_attritube: flip-up
@@ -48,7 +48,7 @@
   description: A photo sharing website for aviation for enthusiasts.
   url: http://avxplr.com
   github: http://github.com/arrc/avxplr
-  youtube: https://www.youtube.com/watch?v=B9z-yvEd9PE
+  youtube: https://www.youtube.com/embed/B9z-yvEd9PE
   tags: [rails, js, postgres]
   thumbnail: img/thumbs/avxplr-thumb.jpg
   animation_attritube: zoom-out-down
@@ -119,7 +119,7 @@
   description: An online blood bank project.
   url: http://obbp.arrc.in
   github: http://github.com/arrc/obbp
-  youtube: https://www.youtube.com/watch?v=VGGL59qLj1A
+  youtube: https://www.youtube.com/embed/VGGL59qLj1A
   tags: [spa, express.js, angular.js, mongodb, RESTful API, token auth]
   thumbnail: img/thumbs/obbp-thumb.jpg
   animation_attritube: flip-up
@@ -206,7 +206,7 @@
   description: 'Search images on <span class="ar_i_hashpix">Flickr</span>, <span class="ar_i_hashpix">Instagram</span> &amp; <span class="ar_i_hashpix">Imagur</span> in one go.'
   url: http://hashpix.arrc.in
   github: http://github.com/arrc/hashpix
-  youtube: https://www.youtube.com/watch?v=HuwEpILMs90
+  youtube: https://www.youtube.com/embed/HuwEpILMs90
   tags: [express.js, lodash, angular.js, 3rd party API]
   thumbnail: img/thumbs/hashpix-thumb.jpg
   animation_attritube: zoom-out-down
@@ -239,7 +239,7 @@
   description: A native iPhone application for obbp project.
   url:
   github: http://github.com/arrc/obbp-ios
-  youtube: https://www.youtube.com/watch?v=nJwOYw6Nghc
+  youtube: https://www.youtube.com/embed/nJwOYw6Nghc
   tags: [swift 2.2, iOS 9.3, API, auto layout]
   thumbnail: img/thumbs/obbp-ios-thumb.jpg
   animation_attritube: flip-up
