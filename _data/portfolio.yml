@@ -183,13 +183,13 @@
   modal_id: bloiRemoteModal
   short_description: A Chrome browser extension for saving bookmarks on bloi.co.
   description: A Chrome browser extension for saving bookmarks on bloi.co.
-  url: http://obbp.arrc.in
+  url: https://chrome.google.com/webstore/detail/bloi-remote/embnkiohgnkdphjimblpbijihphlllcd
   github: http://github.com/arrc/bloi-remote
   youtube: https://www.youtube.com/embed/4KSlB-eA3u4
   tags: [js, google chrome api]
   thumbnail: img/thumbs/bloi-remote.jpg
   animation_attritube: flip-up
-  animation_offset: 400
+  animation_offset: 100
   tech:
     - JavaScript
     - Google Chrome Extension API
@@ -209,8 +209,8 @@
   youtube: https://www.youtube.com/embed/HuwEpILMs90
   tags: [express.js, lodash, angular.js, 3rd party API]
   thumbnail: img/thumbs/hashpix-thumb.jpg
-  animation_attritube: zoom-out-down
-  animation_offset: 400
+  animation_attritube: fade-down-right
+  animation_offset: 100
   tech:
     - Angular.js
     - Express.js
@@ -243,7 +243,7 @@
   tags: [swift 2.2, iOS 9.3, API, auto layout]
   thumbnail: img/thumbs/obbp-ios-thumb.jpg
   animation_attritube: flip-up
-  animation_offset: 400
+  animation_offset: 100
   tech:
     - Xcode 8 beta 6
     - Swift 2.2
